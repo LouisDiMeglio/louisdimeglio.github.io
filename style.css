@@ -1,0 +1,89 @@
+body{
+	width:100px;
+	height:100px;
+	background-color: skyblue;
+}
+
+.header{
+
+	/*right:45%;*/
+	position:absolute;
+	right: 43.5%;
+}
+
+.message{
+
+	/*right:45%;*/
+	position:absolute;
+	right: 44.5%;
+	font: Courier;
+	Font-style: bold;
+}
+
+.start{
+	display: block;
+	margin-left: 20px;
+}
+div {
+	float: left;
+	margin: 13px 13px;
+}
+
+#main{
+	margin:0 auto;
+	margin-top:150px;
+	position: absolute;
+	right:40%;
+	border:1px solid white;
+	border-radius: 15px;
+	background-color: #fff;
+}
+
+
+
+.container {
+	width:200px;
+}
+
+.circle{
+		border: 1px solid blue;
+		border-radius: 100%;
+		width: 70px;
+		height: 70px;
+		background-color: blue;
+
+}
+
+.shape{
+		transition: opacity .1s ease-in-out;
+
+
+}
+
+.square{
+		border: 1px solid green;
+		width: 70px;
+		height: 70px;
+		background-color: green;
+		
+
+}
+.opacity {
+	opacity: 0.2;
+}
+
+.fa-certificate{
+	color:red;
+
+}
+
+.fa-exclamation-triangle{
+	color:gold;
+
+
+}
+
+.message{
+	text-indent: 20px;
+
+}
